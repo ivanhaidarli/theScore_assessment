@@ -1,6 +1,6 @@
 Introduction  
 
-I decided to go with Python as a language of choice, as mentioned in a regiments doc. This project utilizes Python 3.11 as the interpreter and PyCharm IDE to automate mobile application testing using the Appium framework. If you need more context, please see Coverage description file.  
+I decided to go with Python as a language of choice, as mentioned in a requirements doc. This project utilizes Python 3.11 as the interpreter and PyCharm IDE to automate mobile application testing using the Appium framework. If you need more context, please see Coverage description file.  
 
 Project Structure:  
 -README.md: Project overview file, what you currently reading, that include setup instructions and other relevant information.  
