@@ -1,12 +1,11 @@
-Appium assessment README
 Introduction
 Welcome to the Appium assessment! I decided to go with Python as a language of choice, as mentioned in a regiments doc. This project utilizes Python 3.11 as the interpreter and PyCharm IDE to automate mobile application testing using the Appium framework. If you need more context, please see Coverage description file.
 
 Project Structure
 -README.md: Project overview file, what you currently reading, that include setup instructions and other relevant information.
 -Coverage description document: document where I described my approach for the testing and assessment coverage.
--test.py: Python test scripts file that containing the automated test steps using the Appium framework.
--Apk file what was used to build the tests.
+-test.py: Python test scripts file containing the automated test steps using the Appium framework.
+-Apk file that was used to build the tests.
 
 Prerequisites
 Before running the tests in this project, ensure you have the following installed:
